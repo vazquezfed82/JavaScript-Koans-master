@@ -1,0 +1,25 @@
+{
+  "main": "topics/about_asserts.js",
+  "name": "javascript-koans",
+  "description": "Update ======",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node ./",
+		"koans": "node ./main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pipetus/JavaScript-Koans.git"
+  },
+  "keywords": [
+    "javascript",
+    "koans"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pipetus/JavaScript-Koans/issues"
+  },
+  "homepage": "https://github.com/pipetus/JavaScript-Koans#readme"
+}
