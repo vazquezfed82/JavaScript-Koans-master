@@ -21,3 +21,7 @@ Pending stuff to be added as tests:
 * Object and array destructuring
 
 Get started with Ryan Anklam's [Learn JavaScript completely On the Cloud With the JavaScript Koans and Cloud9 IDE](http://blog.bittersweetryan.com/2011/08/learn-some-javascript-completely-on.html)
+
+
+REPO GITHUB
+https://github.com/vazquezfed82/JavaScript-Koans-master
